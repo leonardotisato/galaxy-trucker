@@ -1,5 +1,7 @@
 # Galaxy Trucker
 
+Multiplayer client–server board game in Java (RMI + sockets, MVC).
+
 # Implemented Features
 | FEATURE             |  |
 |---------------------|--|
